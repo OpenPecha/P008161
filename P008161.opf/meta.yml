@@ -3,5 +3,24 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG18562
   title: སྙིགས་དུས་འགྲོ་བ་ཡོངས་ཀྱི་སྐྱབས་མགོན་ཞབས་དཀར་རྡོ་རྗེ་འཆང་ཆེན་པོའི་རྣམ་པར་ཐར་པ་རྒྱས་པར་བཤད་པ།
-  volume: ''
+  volume:
+    b685d267375d4fe7964d01d34243cfdb:
+      image_group_id: I1KG18596
+      title: Volume 1 of snyigs dus 'gro ba yongs kyi skyabs mgon zhabs dkar rdo rje
+        'chang chen po'i rnam par thar pa rgyas par bshad pa/
+      volume_number: 1
+      total_pages: 616
+    1cd6d35fd71c44139659828ce3079129:
+      image_group_id: I1KG18597
+      title: Volume 2 of snyigs dus 'gro ba yongs kyi skyabs mgon zhabs dkar rdo rje
+        'chang chen po'i rnam par thar pa rgyas par bshad pa/
+      volume_number: 2
+      total_pages: 596
   author: ''
+ebook_metadata:
+  title: སྙིགས་དུས་འགྲོ་བ་ཡོངས་ཀྱི་སྐྱབས་མགོན་ཞབས་དཀར་རྡོ་རྗེ་འཆང་ཆེན་པོའི་རྣམ་པར་ཐར་པ་རྒྱས་པར་བཤད་པ།
+  author: ''
+  sku: P008161
+  cover: cover.jpg
+  layers:
+  - pagination
