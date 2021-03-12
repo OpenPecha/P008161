@@ -5,16 +5,20 @@ source_metadata:
   title: སྙིགས་དུས་འགྲོ་བ་ཡོངས་ཀྱི་སྐྱབས་མགོན་ཞབས་དཀར་རྡོ་རྗེ་འཆང་ཆེན་པོའི་རྣམ་པར་ཐར་པ་རྒྱས་པར་བཤད་པ།
   author: ''
   volumes:
-    2d95e17b904f4d90b9bc1624ab510438:
+    b685d267375d4fe7964d01d34243cfdb:
       image_group_id: I1KG18596
-      title: ''
+      title: Volume 1 of snyigs dus 'gro ba yongs kyi skyabs mgon zhabs dkar rdo rje
+        'chang chen po'i rnam par thar pa rgyas par bshad pa/
       volume_number: 1
       total_pages: 616
-    e43dff275e8c4f37a8df3be34528e6f5:
+      base_file: v001.txt
+    1cd6d35fd71c44139659828ce3079129:
       image_group_id: I1KG18597
-      title: ''
+      title: Volume 2 of snyigs dus 'gro ba yongs kyi skyabs mgon zhabs dkar rdo rje
+        'chang chen po'i rnam par thar pa rgyas par bshad pa/
       volume_number: 2
       total_pages: 596
+      base_file: v002.txt
 ebook_metadata:
   title: སྙིགས་དུས་འགྲོ་བ་ཡོངས་ཀྱི་སྐྱབས་མགོན་ཞབས་དཀར་རྡོ་རྗེ་འཆང་ཆེན་པོའི་རྣམ་པར་ཐར་པ་རྒྱས་པར་བཤད་པ།
   author: ''
